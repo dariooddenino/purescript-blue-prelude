@@ -17,6 +17,8 @@ module BluePrelude
 import           Effect
 import           Effect.Console
 import           Prelude
+import Simple.Ajax
+import Simple.JSON
 
 
 
